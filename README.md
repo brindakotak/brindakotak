@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi Developers 👋
 
-<!--
-**brindakotak/brindakotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I'm
 Front-End Developer
 I was working as a Freelancer.I have skills that include HTML,CSS,Javascript and also database like SQL,MySQL.
