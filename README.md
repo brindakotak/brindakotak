@@ -3,7 +3,7 @@
 
 I'm
 Front-End Developer
-I was working as a Freelancer.I have skills that include HTML,CSS,Javascript and also database like SQL,MySQL.
+I was working as a Freelancer.I have skills that include HTML,CSS and also database like SQL,MySQL.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/brindakotak/count.svg)
@@ -17,7 +17,7 @@ I was working as a Freelancer.I have skills that include HTML,CSS,Javascript and
 
 Languages and Tools: 
 
- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> 
+ <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> 
 
 ![](https://activity-graph.herokuapp.com/graph?username=brindakotak&theme=react-dark&area=true)
 
