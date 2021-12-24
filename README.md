@@ -3,7 +3,7 @@
 
 I'm
 Front-End Developer
-I was working as a Freelancer.I have skills that include HTML,CSS and also database like SQL,MySQL.
+I was working as a Freelancer.I have skills that include HTML,CSS,Bootstrap and also database like SQL,MySQL.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/brindakotak/count.svg)
